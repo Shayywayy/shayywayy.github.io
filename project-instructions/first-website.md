@@ -873,7 +873,7 @@ To do so, you'll need to enter the following git commands into your bash termina
 gitpod /workspace/dkogler.github.io $
 ```
 
-If you do not see this, then you can open a new bash terminal by clicking the Hamburger Menu at the top left of your gitpod workspace, then click `Terminal`, and then `New Terminal`.
+ppoIf you do not see this, then you can open a new bash terminal by clicking the Hamburger Menu at the top left of your gitpod workspace, then click `Terminal`, and then `New Terminal`.
 
 Once you're in your bash terminal, enter the following commands, pressing ENTER after each one:
 
